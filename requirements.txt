@@ -1,0 +1,5 @@
+websockets
+autopep8
+pytest
+pytest-pycodestyle
+asyncio
